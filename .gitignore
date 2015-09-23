@@ -16,3 +16,8 @@
 !/log/.keep
 /tmp
 vendor/elasticsearch-1.0.1/
+
+# emacs
+*~
+*.~lock*
+\#*\#
